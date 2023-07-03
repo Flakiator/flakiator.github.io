@@ -34,18 +34,10 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Superbrugsen',
+      position: 'Service Assistant',
+      from: 'June 2019',
+      to: 'August 2022',
     },
   ],
   /* certifications: [
@@ -58,16 +50,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'IT-University of Copenhagen',
+      degree: 'Bachelors degree in Software Development',
+      from: '2022',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Odense Technical College',
+      degree: 'Programming and Mathematics',
+      from: '2018',
+      to: '2021',
     },
   ],
 
